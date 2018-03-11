@@ -1,0 +1,38 @@
+body{
+
+	background-color: black;
+	text-align: center;
+}
+
+#heading{
+	color:white;
+}
+
+
+.container{
+background-color: white;
+padding:10px;
+border-radius: 50px;
+}
+
+
+#cityName{
+padding:10px;
+margin: 10px;
+font-size:50px;
+}
+
+.table{
+padding:10px;
+margin: 5px;
+font-size:20px;
+}
+
+
+#otherInfo{
+
+	display:inline-block;
+	list-style-type: none;
+}
+
+
